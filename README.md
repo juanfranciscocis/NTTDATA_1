@@ -8,9 +8,10 @@ Make sure you have the following installed on your system:
  
 ## Step 1: Clone the Repository
 
-First, clone the repository to your local machine:
+#### Clone the repository to your local machine:
 
 git clone (this repo url)
+
 cd theProject
 
 ## Step 2: Install Dependencies
